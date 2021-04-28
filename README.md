@@ -1,2 +1,2 @@
-# linux-scripts
-Shell scripts I'v written over the years
+# linux
+Shell scripts I've written over the years
